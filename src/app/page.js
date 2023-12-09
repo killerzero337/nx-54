@@ -1,4 +1,4 @@
-import UploadForm from "./UploadForm"
+import UploadForm from "@/app/UploadForm"
 
 export default function Home() {
 

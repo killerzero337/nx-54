@@ -1,7 +1,7 @@
 'use client'
 import { uploadFile } from "@/app/actions";
 import { toast } from 'react-hot-toast';
-import { SubmitButton } from "./SubmitButton";
+import { SubmitButton } from "@/app/SubmitButton";
 
 
 const UploadForm = () => {
